@@ -1,7 +1,63 @@
 .box {
-    width: 600px;
+    width: 550px;
     padding: 15px;
-    border: 1px solid gray;
-    margin: auto;
+    border: 2px solid gray;
     text-align: center;
+    font-family: fantasy;
   }
+
+  .box2{
+    width: 550px;
+    padding: 15px;
+    border: 2px solid gray;
+    text-align: center;
+    font-family: fantasy;
+  }
+
+  h1{
+    font-family: fantasy;
+    font-size: 35px;
+  }
+
+  body{
+    background-color: navajowhite;
+  }
+
+  hr{
+    height: 2px;
+    background-color: grey;
+    border: none;
+  }
+
+  a{
+    text-decoration: none;
+    color: black;
+  }
+
+  a:hover{
+    color: aquamarine;
+  }
+
+  img{
+    display: block;
+    width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .flex-container {
+    display: flex;
+    margin-top: .3cm;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid grey;
+}
+
+  
+  
+
+
+  
+
