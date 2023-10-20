@@ -14,6 +14,12 @@
     font-family: fantasy;
   }
 
+  .button{
+    background-color: antiquewhite;
+    border-radius: 6px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  }
+
   h1{
     font-family: fantasy;
     font-size: 35px;
@@ -31,11 +37,11 @@
 
   a{
     text-decoration: none;
-    color: black;
+    color: rgb(151, 43, 43);
   }
 
   a:hover{
-    color: aquamarine;
+    color: rgb(102, 121, 214);
   }
 
   img{
